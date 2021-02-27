@@ -31,8 +31,7 @@ ENV RUST_LOG=solana_runtime::system_instruction_processor=trace,solana_runtime::
 ENV USER root
 
 WORKDIR /source
-COPY example-helloworld example-helloworld
-COPY solana-program-library solana-program-library
+
 RUN npm install
 RUN solana config set --ws https://devnet.solana.com
 RUN solana config set --url https://devnet.solana.com
