@@ -1,5 +1,5 @@
 
-import { html } from '@polymer/lit-element';
+import { html } from './@polymer/lit-element';
 let cssText = `
 
 
@@ -21,7 +21,7 @@ let cssText = `
 
       
 
-      .iphoneXrxsMax115 {
+      .iphoneXrxsMax113 {
 
       display: block;
       position: absolute;
@@ -52,7 +52,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 {
+.iphoneXrxsMax113 .group2 {
 
       display: block;
       position: absolute;
@@ -83,7 +83,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path1445bcae2 {
+.iphoneXrxsMax113 .group2 .path103709e09 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -114,7 +114,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path2899a70f6 {
+.iphoneXrxsMax113 .group2 .path29e1af8fe {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -145,7 +145,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path3c34e56db {
+.iphoneXrxsMax113 .group2 .path378f52c44 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -176,7 +176,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path4469661f1 {
+.iphoneXrxsMax113 .group2 .path4be6d91a9 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -207,7 +207,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path5cd8f2fd1 {
+.iphoneXrxsMax113 .group2 .path507639444 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -238,7 +238,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path636d6c735 {
+.iphoneXrxsMax113 .group2 .path603d0d647 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -269,7 +269,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path7453a708e {
+.iphoneXrxsMax113 .group2 .path7367aa738 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -300,7 +300,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path8b1af9fdb {
+.iphoneXrxsMax113 .group2 .path8b0761e76 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -331,7 +331,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group2 .path9c1d90c24 {
+.iphoneXrxsMax113 .group2 .path929e49fbc {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -362,7 +362,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .takeBackYourDeposit {
+.iphoneXrxsMax113 .takeBackYourDeposit {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -402,7 +402,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .returnCappuccinoTokens {
+.iphoneXrxsMax113 .returnCappuccinoTokens {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -442,7 +442,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .stabilityFee1Sol {
+.iphoneXrxsMax113 .stabilityFee1Sol {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -482,7 +482,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .yourCappuccinoVault {
+.iphoneXrxsMax113 .yourCappuccinoVault {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -522,7 +522,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 {
+.iphoneXrxsMax113 .group1 {
 
       display: block;
       position: absolute;
@@ -553,7 +553,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .ellipse1 {
+.iphoneXrxsMax113 .group1 .ellipse1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -584,7 +584,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .ellipse2 {
+.iphoneXrxsMax113 .group1 .ellipse2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -615,7 +615,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path1 {
+.iphoneXrxsMax113 .group1 .path1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -646,7 +646,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path2 {
+.iphoneXrxsMax113 .group1 .path2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -677,7 +677,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path3 {
+.iphoneXrxsMax113 .group1 .path3 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -708,7 +708,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path4 {
+.iphoneXrxsMax113 .group1 .path4 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -739,7 +739,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path5 {
+.iphoneXrxsMax113 .group1 .path5 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -770,7 +770,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path6 {
+.iphoneXrxsMax113 .group1 .path6 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -801,7 +801,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path7 {
+.iphoneXrxsMax113 .group1 .path7 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -832,7 +832,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path8 {
+.iphoneXrxsMax113 .group1 .path8 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -863,7 +863,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .group1 .path9 {
+.iphoneXrxsMax113 .group1 .path9 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -894,7 +894,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .rectangle1 {
+.iphoneXrxsMax113 .rectangle1 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -938,7 +938,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .rectangle7 {
+.iphoneXrxsMax113 .rectangle7 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -982,7 +982,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .x45 {
+.iphoneXrxsMax113 .x45 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1022,7 +1022,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .x38 {
+.iphoneXrxsMax113 .x38 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1062,7 +1062,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax115 .component13 {
+.iphoneXrxsMax113 .component11 {
 
       display: block;
       position: absolute;
@@ -1087,13 +1087,13 @@ let cssText = `
       overflow-y: unset;
       background-color: transparent;
       width: 86.00px;
-    height: 34.25px;
+    height: 29.00px;
     left: 164.00px;
-    top: 396.75px;
+    top: 402.00px;
 
 }
 
-.iphoneXrxsMax115 .component13 .rectangle2 {
+.iphoneXrxsMax113 .component11 .rectangle2 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -1112,7 +1112,7 @@ let cssText = `
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      background-color: rgba(59, 113, 61, 1);
+      background-color: transparent;
       border-bottom-color: rgba(255, 255, 255, 1);
       border-bottom-style: solid;
       border-bottom-width: 1.00px;
@@ -1133,18 +1133,18 @@ let cssText = `
       width: 86.00px;
     height: 29.00px;
     left: 0.00px;
-    top: 5.25px;
+    top: 0.00px;
 
 }
 
-.iphoneXrxsMax115 .component13 .group3 {
+.iphoneXrxsMax113 .component11 .group3 {
 
       display: block;
       position: absolute;
       box-sizing: content-box;
-      -ms-transform: rotate(45.00deg);
-    -webkit-transform: rotate(45.00deg);
-    transform: rotate(45.00deg);
+      -ms-transform: rotate(-45.00deg);
+    -webkit-transform: rotate(-45.00deg);
+    transform: rotate(-45.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
@@ -1162,13 +1162,13 @@ let cssText = `
       overflow-y: unset;
       background-color: transparent;
       width: 14.65px;
-    height: 27.65px;
-    left: 36.77px;
-    top: 1.13px;
+    height: 14.65px;
+    left: 32.18px;
+    top: 6.98px;
 
 }
 
-.iphoneXrxsMax115 .component13 .group3 .rectangle3 {
+.iphoneXrxsMax113 .component11 .group3 .rectangle3 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1208,11 +1208,11 @@ let cssText = `
       width: 14.65px;
     height: 1.58px;
     left: 0.00px;
-    top: 26.06px;
+    top: 13.06px;
 
 }
 
-.iphoneXrxsMax115 .component13 .group3 .rectangle4 {
+.iphoneXrxsMax113 .component11 .group3 .rectangle4 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(90.00deg);
@@ -1249,17 +1249,17 @@ let cssText = `
       border-bottom-left-radius: 26.00px;
       border-bottom-right-radius: 26.00px;
       box-shadow: none;
-      width: 27.65px;
+      width: 14.65px;
     height: 1.58px;
-    left: 0.03px;
-    top: 13.03px;
+    left: 6.53px;
+    top: 6.53px;
 
 }
 
 ;
 `;
-cssText = cssText.replace(/background-image: url\(\"assets/g, `background-image: url("${import.meta.url.replace('iphoneXrxsMax115.style.js', 'assets')}`);
-cssText = cssText.replace(/src: url\(assets/g, `src: url(${import.meta.url.replace('iphoneXrxsMax115.style.js', 'assets')}`);
-export const IphoneXrxsMax115Style = html`
+cssText = cssText.replace(/background-image: url\(\"assets/g, `background-image: url("${import.meta.url.replace('iphoneXrxsMax113.style.js', 'assets')}`);
+cssText = cssText.replace(/src: url\(assets/g, `src: url(${import.meta.url.replace('iphoneXrxsMax113.style.js', 'assets')}`);
+export const IphoneXrxsMax113Style = html`
 ${cssText}
 `;

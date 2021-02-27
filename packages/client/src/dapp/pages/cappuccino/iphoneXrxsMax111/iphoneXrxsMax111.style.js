@@ -1,5 +1,5 @@
 
-import { html } from '@polymer/lit-element';
+import { html } from './@polymer/lit-element';
 let cssText = `
 
 

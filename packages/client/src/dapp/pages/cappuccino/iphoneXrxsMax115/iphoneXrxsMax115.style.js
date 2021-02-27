@@ -1,5 +1,5 @@
 
-import { html } from '@polymer/lit-element';
+import { html } from './@polymer/lit-element';
 let cssText = `
 
 
@@ -21,7 +21,7 @@ let cssText = `
 
       
 
-      .iphoneXrxsMax112 {
+      .iphoneXrxsMax115 {
 
       display: block;
       position: absolute;
@@ -52,7 +52,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 {
+.iphoneXrxsMax115 .group2 {
 
       display: block;
       position: absolute;
@@ -83,7 +83,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path17ed2c1e5 {
+.iphoneXrxsMax115 .group2 .path1445bcae2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -114,7 +114,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path294502e0b {
+.iphoneXrxsMax115 .group2 .path2899a70f6 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -145,7 +145,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path366ec4abc {
+.iphoneXrxsMax115 .group2 .path3c34e56db {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -176,7 +176,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path456fa7562 {
+.iphoneXrxsMax115 .group2 .path4469661f1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -207,7 +207,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path53be50821 {
+.iphoneXrxsMax115 .group2 .path5cd8f2fd1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -238,7 +238,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path6669799cc {
+.iphoneXrxsMax115 .group2 .path636d6c735 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -269,7 +269,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path75eaef931 {
+.iphoneXrxsMax115 .group2 .path7453a708e {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -300,7 +300,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path88bef40d0 {
+.iphoneXrxsMax115 .group2 .path8b1af9fdb {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -331,7 +331,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group2 .path9c19299e6 {
+.iphoneXrxsMax115 .group2 .path9c1d90c24 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -362,7 +362,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .depositSol {
+.iphoneXrxsMax115 .takeBackYourDeposit {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -395,14 +395,14 @@ let cssText = `
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 109.00px;
+      width: 205.00px;
     height: 26.00px;
     left: 11.00px;
     top: 323.00px;
 
 }
 
-.iphoneXrxsMax112 .collateralRatio {
+.iphoneXrxsMax115 .returnCappuccinoTokens {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -435,14 +435,14 @@ let cssText = `
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 135.00px;
+      width: 238.00px;
     height: 26.00px;
     left: 11.00px;
     top: 248.00px;
 
 }
 
-.iphoneXrxsMax112 .outputCappuccinoTokens {
+.iphoneXrxsMax115 .stabilityFee1Sol {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -466,7 +466,7 @@ let cssText = `
       letter-spacing: 0.00px;
       color: rgba(255, 255, 255, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 20.00px;
+      font-size: 15.00px;
       font-weight: 400;
     font-style: normal;
       font-family: Roboto, Arial;
@@ -475,54 +475,14 @@ let cssText = `
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 240.00px;
-    height: 26.00px;
-    left: 11.00px;
-    top: 397.00px;
+      width: 128.00px;
+    height: 20.00px;
+    left: 143.00px;
+    top: 470.00px;
 
 }
 
-.iphoneXrxsMax112 .borrowCappuccino {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 20.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Roboto, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 174.00px;
-    height: 26.00px;
-    left: 120.00px;
-    top: 495.00px;
-
-}
-
-.iphoneXrxsMax112 .createCappuccinoVault {
+.iphoneXrxsMax115 .yourCappuccinoVault {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -555,14 +515,14 @@ let cssText = `
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 337.00px;
+      width: 302.00px;
     height: 39.00px;
     left: 11.00px;
     top: 159.00px;
 
 }
 
-.iphoneXrxsMax112 .group1 {
+.iphoneXrxsMax115 .group1 {
 
       display: block;
       position: absolute;
@@ -593,7 +553,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .ellipse1 {
+.iphoneXrxsMax115 .group1 .ellipse1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -624,7 +584,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .ellipse2 {
+.iphoneXrxsMax115 .group1 .ellipse2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -655,7 +615,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path1 {
+.iphoneXrxsMax115 .group1 .path1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -686,7 +646,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path2 {
+.iphoneXrxsMax115 .group1 .path2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -717,7 +677,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path3 {
+.iphoneXrxsMax115 .group1 .path3 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -748,7 +708,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path4 {
+.iphoneXrxsMax115 .group1 .path4 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -779,7 +739,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path5 {
+.iphoneXrxsMax115 .group1 .path5 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -810,7 +770,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path6 {
+.iphoneXrxsMax115 .group1 .path6 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -841,7 +801,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path7 {
+.iphoneXrxsMax115 .group1 .path7 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -872,7 +832,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path8 {
+.iphoneXrxsMax115 .group1 .path8 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -903,7 +863,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .group1 .path9 {
+.iphoneXrxsMax115 .group1 .path9 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -934,7 +894,7 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .rectangle1 {
+.iphoneXrxsMax115 .rectangle1 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -973,12 +933,12 @@ let cssText = `
       box-shadow: none;
       width: 86.00px;
     height: 29.00px;
-    left: 179.00px;
+    left: 317.00px;
     top: 322.00px;
 
 }
 
-.iphoneXrxsMax112 .rectangle7 {
+.iphoneXrxsMax115 .rectangle7 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -1022,9 +982,9 @@ let cssText = `
 
 }
 
-.iphoneXrxsMax112 .rectangle5 {
+.iphoneXrxsMax115 .x45 {
     position: absolute;
-      box-sizing: border-box;
+      box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
@@ -1041,34 +1001,30 @@ let cssText = `
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      background-color: transparent;
-      border-bottom-color: rgba(255, 255, 255, 1);
-      border-bottom-style: solid;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(255, 255, 255, 1);
-      border-left-style: solid;
-      border-left-width: 1.00px;
-      border-right-color: rgba(255, 255, 255, 1);
-      border-right-style: solid;
-      border-right-width: 1.00px;
-      border-top-color: rgba(255, 255, 255, 1);
-      border-top-style: solid;
-      border-top-width: 1.00px;
-      border-top-left-radius: 26.00px;
-      border-top-right-radius: 26.00px;
-      border-bottom-left-radius: 26.00px;
-      border-bottom-right-radius: 26.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 25.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Roboto, Arial;
+      text-decoration: none;
       box-shadow: none;
-      width: 86.00px;
-    height: 29.00px;
-    left: 317.00px;
-    top: 397.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 28.00px;
+    height: 33.00px;
+    left: 346.00px;
+    top: 319.00px;
 
 }
 
-.iphoneXrxsMax112 .rectangle6 {
+.iphoneXrxsMax115 .x38 {
     position: absolute;
-      box-sizing: border-box;
+      box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
     transform: rotate(0.00deg);
@@ -1085,32 +1041,28 @@ let cssText = `
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      background-color: transparent;
-      border-bottom-color: rgba(255, 255, 255, 1);
-      border-bottom-style: solid;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(255, 255, 255, 1);
-      border-left-style: solid;
-      border-left-width: 1.00px;
-      border-right-color: rgba(255, 255, 255, 1);
-      border-right-style: solid;
-      border-right-width: 1.00px;
-      border-top-color: rgba(255, 255, 255, 1);
-      border-top-style: solid;
-      border-top-width: 1.00px;
-      border-top-left-radius: 26.00px;
-      border-top-right-radius: 26.00px;
-      border-bottom-left-radius: 26.00px;
-      border-bottom-right-radius: 26.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 25.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Roboto, Arial;
+      text-decoration: none;
       box-shadow: none;
-      width: 215.00px;
-    height: 29.00px;
-    left: 100.00px;
-    top: 495.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 28.00px;
+    height: 33.00px;
+    left: 346.00px;
+    top: 242.00px;
 
 }
 
-.iphoneXrxsMax112 .component11 {
+.iphoneXrxsMax115 .component13 {
 
       display: block;
       position: absolute;
@@ -1135,13 +1087,13 @@ let cssText = `
       overflow-y: unset;
       background-color: transparent;
       width: 86.00px;
-    height: 29.00px;
-    left: 317.00px;
-    top: 322.00px;
+    height: 34.25px;
+    left: 164.00px;
+    top: 396.75px;
 
 }
 
-.iphoneXrxsMax112 .component11 .rectangle2 {
+.iphoneXrxsMax115 .component13 .rectangle2 {
     position: absolute;
       box-sizing: border-box;
       -ms-transform: rotate(0.00deg);
@@ -1160,7 +1112,7 @@ let cssText = `
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      background-color: transparent;
+      background-color: rgba(59, 113, 61, 1);
       border-bottom-color: rgba(255, 255, 255, 1);
       border-bottom-style: solid;
       border-bottom-width: 1.00px;
@@ -1181,18 +1133,18 @@ let cssText = `
       width: 86.00px;
     height: 29.00px;
     left: 0.00px;
-    top: 0.00px;
+    top: 5.25px;
 
 }
 
-.iphoneXrxsMax112 .component11 .group3 {
+.iphoneXrxsMax115 .component13 .group3 {
 
       display: block;
       position: absolute;
       box-sizing: content-box;
-      -ms-transform: rotate(-45.00deg);
-    -webkit-transform: rotate(-45.00deg);
-    transform: rotate(-45.00deg);
+      -ms-transform: rotate(45.00deg);
+    -webkit-transform: rotate(45.00deg);
+    transform: rotate(45.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
@@ -1210,13 +1162,13 @@ let cssText = `
       overflow-y: unset;
       background-color: transparent;
       width: 14.65px;
-    height: 14.65px;
-    left: 32.18px;
-    top: 6.98px;
+    height: 27.65px;
+    left: 36.77px;
+    top: 1.13px;
 
 }
 
-.iphoneXrxsMax112 .component11 .group3 .rectangle3 {
+.iphoneXrxsMax115 .component13 .group3 .rectangle3 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1256,11 +1208,11 @@ let cssText = `
       width: 14.65px;
     height: 1.58px;
     left: 0.00px;
-    top: 13.06px;
+    top: 26.06px;
 
 }
 
-.iphoneXrxsMax112 .component11 .group3 .rectangle4 {
+.iphoneXrxsMax115 .component13 .group3 .rectangle4 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(90.00deg);
@@ -1297,137 +1249,17 @@ let cssText = `
       border-bottom-left-radius: 26.00px;
       border-bottom-right-radius: 26.00px;
       box-shadow: none;
-      width: 14.65px;
+      width: 27.65px;
     height: 1.58px;
-    left: 6.53px;
-    top: 6.53px;
-
-}
-
-.iphoneXrxsMax112 .x45 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 25.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Roboto, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 28.00px;
-    height: 33.00px;
-    left: 208.00px;
-    top: 319.00px;
-
-}
-
-.iphoneXrxsMax112 .x150 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 25.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Roboto, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 60.00px;
-    height: 33.00px;
-    left: 330.00px;
-    top: 242.00px;
-
-}
-
-.iphoneXrxsMax112 .x38 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 25.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Roboto, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 28.00px;
-    height: 33.00px;
-    left: 346.00px;
-    top: 394.00px;
+    left: 0.03px;
+    top: 13.03px;
 
 }
 
 ;
 `;
-cssText = cssText.replace(/background-image: url\(\"assets/g, `background-image: url("${import.meta.url.replace('iphoneXrxsMax112.style.js', 'assets')}`);
-cssText = cssText.replace(/src: url\(assets/g, `src: url(${import.meta.url.replace('iphoneXrxsMax112.style.js', 'assets')}`);
-export const IphoneXrxsMax112Style = html`
+cssText = cssText.replace(/background-image: url\(\"assets/g, `background-image: url("${import.meta.url.replace('iphoneXrxsMax115.style.js', 'assets')}`);
+cssText = cssText.replace(/src: url\(assets/g, `src: url(${import.meta.url.replace('iphoneXrxsMax115.style.js', 'assets')}`);
+export const IphoneXrxsMax115Style = html`
 ${cssText}
 `;
