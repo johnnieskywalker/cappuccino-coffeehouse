@@ -1,4 +1,4 @@
-import { LitElement, html } from '@polymer/lit-element';
+import { LitElement, html } from './@polymer/lit-element';
 import { IphoneXrxsMax112Style } from './iphoneXrxsMax112.style';
 
 export class IphoneXrxsMax112 extends LitElement {

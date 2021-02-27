@@ -1,11 +1,11 @@
-import React, {Component} from 'react';
-import PropTypes from "prop-types";
+import React, {Component} from './react';
+import PropTypes from "./prop-types";
 import {StyleSheet, Text, View, TextInput, FlatList, Picker, ScrollView, TouchableHighlight} from 'react-native';
 import {Image as ReactImage} from 'react-native';
-import Svg, {Defs, Pattern} from 'react-native-svg';
-import {Path as SvgPath} from 'react-native-svg';
-import {Text as SvgText} from 'react-native-svg';
-import {Image as SvgImage} from 'react-native-svg';
+import Svg, {Defs, Pattern} from './react-native-svg';
+import {Path as SvgPath} from './react-native-svg';
+import {Text as SvgText} from './react-native-svg';
+import {Image as SvgImage} from './react-native-svg';
 
 export default class IphoneXrxsMax115 extends Component {
 
