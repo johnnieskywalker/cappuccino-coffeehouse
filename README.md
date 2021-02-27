@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/johnnieskywalker/cappuccino-coffeehouse)
+
 # My Dapp
 
 This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
