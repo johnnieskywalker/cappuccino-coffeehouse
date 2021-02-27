@@ -1,12 +1,21 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/johnnieskywalker/cappuccino-coffeehouse)
 
-# My Dapp
+# Cappuccino Coffeehouse
 
-This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+This project is for the blockchain application Cappuccino Coffeehouse. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+Fellow blockchain traveller you entered a coffeehousein which you can deposit your SOL tokens into cup of coffee.
+After depositing SOL you will be able to see it shining inside cup, in return you will be able to borrow CAPPUCINO STABLECOINS.
+Cappuccino STABLECOINS are pegged not to a price of any fiat currency but to a price of cappuccino in NY from Numbeo API.
+So this is trustless stablecoin which warranties you will be able to buy cappuccino coffee - a Proff of Coffee and Milk.
+You can borrow as much Cappuccino as much cappuccino coffees you could buy in New York minus collateral ratio.
+When you will keep your collateral ratio you will be able to give back your Cappuccino into a cup and take back your deposited SOL.
+So if price of SOL will go up you will be able to borrow more CAP tokens, or give them back to cup and receive deposited SOL.
+If the price of SOL would drop for some reasons so you deposit will be worth less then your CAP + c-ratio, you won't be able to take back deposited SOL.
+Program will take it, however you will still be able to enjoy your CAPPUCINO!
 
 # Pre-requisites
 
-In order to develop and build "My Dapp," the following pre-requisites must be installed:
+In order to develop and build "Cappuccino Coffeehouse," the following pre-requisites must be installed:
 
 * [Visual Studio Code](https://code.visualstudio.com/download) (or any IDE for editing Javascript)
 * [NodeJS](https://nodejs.org/en/download/)
