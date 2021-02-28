@@ -2,8 +2,11 @@
 
 # Cappuccino Coffeehouse
 
-This project is for the blockchain application Cappuccino Coffeehouse. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
-Fellow blockchain traveller you entered a coffeehousein which you can deposit your SOL tokens into cup of coffee.
+This project is for the blockchain application Cappuccino Coffeehouse. It contains code for the PROGRAM, web-based dapp and NodeJS server. 
+
+### Blockchain program is Cappucino Machine.
+
+Fellow blockchain traveller you entered a coffeehouse in which you can deposit your SOL tokens into cup of coffee no vaults here.
 After depositing SOL you will be able to see it shining inside cup, in return you will be able to borrow CAPPUCINO STABLECOINS.
 Cappuccino STABLECOINS are pegged not to a price of any fiat currency but to a price of cappuccino in NY from Numbeo API.
 So this is trustless stablecoin which warranties you will be able to buy cappuccino coffee - a Proff of Coffee and Milk.
@@ -12,6 +15,8 @@ When you will keep your collateral ratio you will be able to give back your Capp
 So if price of SOL will go up you will be able to borrow more CAP tokens, or give them back to cup and receive deposited SOL.
 If the price of SOL would drop for some reasons so you deposit will be worth less then your CAP + c-ratio, you won't be able to take back deposited SOL.
 Program will take it, however you will still be able to enjoy your CAPPUCINO!
+
+
 
 # Pre-requisites
 
