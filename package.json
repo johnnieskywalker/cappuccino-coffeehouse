@@ -1,5 +1,5 @@
 {
-    "name": "@decentology/dappstarter-project",
+    "name": "@coffehouse/cappucino-coffehouse-collateral",
     "version": "1.0.44",
     "workspaces": {
         "packages": [
@@ -16,13 +16,45 @@
         "dapp:prod": "lerna run build:prod",
         "server": "lerna run dev --scope=@decentology/dappstarter-server --stream",
         "test": "lerna run test $npm_config_script --scope=@decentology/dappstarter-dapplib --stream",
-        "dev": "npm start"
+        "dev": "npm start",
+        "build:program-rust": "cargo build-bpf --manifest-path=./solana-program-rust/Cargo.toml --bpf-out-dir=dist/program && npm run clean:store",
+        "clean:program-rust": "cargo clean --manifest-path=./solana-program-rust/Cargo.toml && rm -rf ./dist && npm run clean:store",
+        "test:program-rust": "cargo test-bpf --manifest-path=./solana-program-rust/Cargo.toml"
     },
     "devDependencies": {
         "chalk": "^4.0.0",
         "detect-port": "^1.3.0",
         "lerna": "^3.21.0",
-        "port-precheck": "https://github.com/trycrypto/port-precheck"
+        "port-precheck": "https://github.com/trycrypto/port-precheck",
+        "@tsconfig/recommended": "^1.0.1",
+        "@types/eslint": "^7.2.4",
+        "@types/eslint-plugin-prettier": "^3.1.0",
+        "@types/mkdirp": "^1.0.1",
+        "@types/mz": "^2.7.2",
+        "@types/prettier": "^2.1.5",
+        "@types/bn.js": "^4.11.6",
+        "@typescript-eslint/eslint-plugin": "^4.6.0",
+        "@typescript-eslint/parser": "^4.6.0",
+        "eslint": "^7.12.1",
+        "eslint-config-prettier": "^6.15.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "prettier": "^2.1.2",
+        "start-server-and-test": "^1.11.6",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.5"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^0.93.0",
+        "@solana/spl-token": "0.1.0",
+        "buffer-layout": "^1.2.0",
+        "dotenv": "8.2.0",
+        "json-to-pretty-yaml": "^1.2.2",
+        "mkdirp": "^1.0.4",
+        "mz": "^2.7.0",
+        "bn.js": "^5.1.3"
+    },
+    "engines": {
+        "node": "12.x"
     },
     "private": true
 }
