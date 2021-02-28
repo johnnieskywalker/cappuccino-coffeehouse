@@ -4,6 +4,8 @@
         "/blockchain/solana": true,
         "/blockchain/solana/rust": true,
         "/framework/react": true,
-        "/category/examples/hello_dev": true
+        "/category/examples/hello_dev": true,
+        "/category/examples/cappuccino": true
+
     }
 }

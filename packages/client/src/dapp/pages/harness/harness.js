@@ -37,6 +37,13 @@ export default class HarnessPage extends LitElement {
         "description": "Simple read and write example. This module is required for the Beta.",
         "category": "Examples",
         "route": "/hello_dev"
+    },
+    {
+        "name": "cappuccino",
+        "title": "cappuccino",
+        "description": "test !.",
+        "category": "Examples",
+        "route": "/cappuccino"
     }
 ]; 
   }
