@@ -9,7 +9,6 @@ var page1 =require('../iphoneXrxsMax111/iphoneXrxsMax111.html');
 import DOM from "../../../lib/components/shared/dom";
 import DappLib from "@decentology/dappstarter-dapplib";
 import { LitElement, html, customElement, property } from "lit-element";
-import { IphoneXrxsMax111Style } from './iphoneXrxsMax111.style';
 
 @customElement("cappuccino-page")
 export default class CappuccinoPage extends LitElement {
