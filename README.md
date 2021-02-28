@@ -4,6 +4,9 @@
 
 This project is for the blockchain application Cappuccino Coffeehouse. It contains code for the PROGRAM, web-based dapp and NodeJS server. 
 
+![Welcome to Coffeehouse](https://github.com/johnnieskywalker/cappuccino-coffeehouse/blob/main/UXproject/iPhone%20XR-XS%20Max-11%20%E2%80%93%201.png?raw=true)
+
+
 ### Blockchain program is Cappucino Machine.
 
 Fellow blockchain traveller you entered a coffeehouse in which you can deposit your SOL tokens into cup of coffee no vaults here.
